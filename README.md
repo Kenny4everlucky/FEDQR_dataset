@@ -349,28 +349,3 @@ zeromq                    4.3.4                h0e60522_1    conda-forge
 zipp                      3.11.0             pyhd8ed1ab_0    conda-forge
 
 zlib                      1.2.13               hcfcfb64_4    conda-forge
-
-## Hyperparameter
-[Hyperparameter]                [Value]
-
-Loss function                   Quantile loss
-
-Activation                      ReLU
-
-Optimizer                       Adam
-
-Input chunk length              36
-
-Output chunk length             36
-
-Hidden size                     64
-
-LSTM layers                     1
-
-Attention heads num             4
-
-Batch size                      96 
-
-Dropout                         0.1
-
-Epochs                          200
