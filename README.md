@@ -4,7 +4,7 @@ The data set is provided to the paper Feature-Enhanced Deep Learning Quantile Re
 ## About Data sets
 
 ### Load
-This folder contains the raw data sets (raw_data.xlsx), as well as the data sets used for predictions under various seasonal scenarios (load_season.csv).
+This folder contains the raw data sets (raw_data.xlsx) form Jan 1st 2022 to Dec 31st 2022, as well as the data sets used for predictions under various seasonal scenarios (load_season.csv).
 
 ### Correlation_norm
 This folder organizes the various variable sequences and normalizes them for correlation analysis (season_norm.csv).
