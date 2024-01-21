@@ -40,4 +40,4 @@ xarray>=0.17.0
 shap>=0.40.0
 
 ## About the Code
-After the article is accepted, any researcher with a strong interest in this work is welcome to reasonably request the related code of this work.
+After this work is accepted, any researcher with a strong interest in this work is welcome to reasonably request the related code of this work.
