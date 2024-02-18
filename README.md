@@ -1,5 +1,5 @@
 # INTRODUCTION
-The data set is provided to the paper Feature-Enhanced Deep Learning Method for Electric Vehicle Charging Demand Probabilistic Forecasting of Charging Station
+The dataset is provided to the paper Feature-Enhanced Deep Learning Method for Electric Vehicle Charging Demand Probabilistic Forecasting of Charging Station
 
 ## About Data sets
 
@@ -16,7 +16,7 @@ This folder contains the point predictions for each model under each seasonal sc
 The contents of this folder are used to calculate the qualification rate (QR) of each model.
 
 ## Environment Requirement
-pytorch-lightning>=1.5.0
+pytorch-lightning>=1.5.0\\
 torch>=1.8.0
 catboost>=1.0.6
 holidays>=0.11.1
@@ -38,6 +38,3 @@ tbats>=1.1.0
 tqdm>=4.60.0
 xarray>=0.17.0
 shap>=0.40.0
-
-## About the Code
-After this work is accepted, any researcher with a strong interest in this work is welcome to reasonably request the related code of this work.
