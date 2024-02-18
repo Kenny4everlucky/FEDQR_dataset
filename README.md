@@ -4,7 +4,7 @@ The dataset is provided to the paper Feature-Enhanced Deep Learning Method for E
 ## About Data sets
 
 ### Load
-This folder contains the raw data sets (raw_data.xlsx) form Jan 1st 2022 to Dec 31st 2022, as well as the data sets used for predictions under various seasonal scenarios (load_season.csv).
+This folder contains the raw data sets (raw_data.xlsx) form Jan 1st 2022 to Dec 31st 2022, as well as the data sets used for predictions under various seasonal scenarios (load_season.csv). The original data comes from the smart meter data of a core electric vehicle charging station in a city in southern China and is protected by privacy. Please cite the data if you need to use it.
 
 ### Correlation_norm
 This folder organizes the various variable sequences and normalizes them for correlation analysis (season_norm.csv).
